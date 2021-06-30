@@ -1,0 +1,21 @@
+.gui1{
+    padding: 10px;
+    margin-left: 5px;
+}
+.gui2{
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 20px;
+    margin-left: 160px;
+    margin-bottom: 80px;
+}
+.entrar{
+    margin-left: 460px;
+}
+.entrar h2{
+    font-size: 20px;
+    margin-left: 165px;
+    margin-bottom: 40px;
+    margin-top: 60px;
+}

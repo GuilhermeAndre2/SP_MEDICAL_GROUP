@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.local1{
+    margin: 120px;
+    display: flex;
+}
+.local1 p{
+    width: 20%;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.vertical{
+    height: 200px;
+    border: solid 1px rgb(224, 224, 224);
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.predio2{
+    width: 20%;
+    height: 100%;
+    margin-top: 70px;
+}
+.caminho{
+    margin-top: 60px;
+}
+.caminho p{
+    width: 100%;
+    margin-top: 2px;
+
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.texto{
+    width: 90%;
+    margin: 80px;
+    font-family: 'Poppins', sans-serif;
+}
+.texto p{
+    width: 80%;
+    justify-content: left;
+    margin-left: 80px;
+    color: rgb(109, 109, 109);
+    margin-bottom: 10px;
+}
+
+.texto h2{
+    width: 80%;
+    justify-content: left;
+    margin-left: 80px;
+}
+.linha{
+    width: 100%;
+    border: 0.5px solid rgb(211, 211, 211);
+}
